@@ -1,10 +1,12 @@
-# Language
-Java
+# Game
 
-##Leader:
-Sir Denmark Duero
+## Language
+- Java
 
-###Members:
-Donnah Jane Villasan
-Charmaine Acac
-Sherwin Lacadin
+### Leader:
+- Sir Denmark Duero
+
+#### Members:
+- Donnah Jane Villasan
+- Charmaine Acac
+- Sherwin Lacadin
