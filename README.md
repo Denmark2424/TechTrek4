@@ -1,5 +1,5 @@
 **Language**
-- Java
+1. Java
 
 ##Leader:
 Sir Denmark Duero
